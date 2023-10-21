@@ -15,7 +15,7 @@ Você pode instalar as bibliotecas Python necessárias usando o `pip`:
 
 1. Clone este repositorio
 
-git clone https://github.com/seu-usuario/controle-de-visitantes.git
+git clone https://github.com/samuellgsDev/controle-de-visitantes.git
 
 2. Navegue até o diretório do projeto:
 
